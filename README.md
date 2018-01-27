@@ -12,6 +12,10 @@ As burgers are devoured, they are moved from 'Burgers to Eat' to 'Burgers Devour
 
 ![Screenshot of back end](screenshots/ss-2.png)
 
+## Heroku
+
+Try it out now @ http://eat-a-burger-app.herokuapp.com/
+
 ## Future Development
 
 * Update front end display so it is more engaging.
